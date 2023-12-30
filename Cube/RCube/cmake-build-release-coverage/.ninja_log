@@ -1,0 +1,19 @@
+# ninja log v5
+10	618	7252822551608353	RCube/CMakeFiles/RCube.dir/CubeViewer.cpp.obj	13313387a9d490ed
+0	651	7252822551936845	RCube/CMakeFiles/RCube.dir/Source.cpp.obj	cde9583c67f1563c
+6	712	7252822552556895	RCube/CMakeFiles/RCube.dir/Face.cpp.obj	772e639a67ea5b42
+15	758	7252822553012185	RCube/CMakeFiles/RCube.dir/TinyPngOut.cpp.obj	8268295b17541814
+3	2418	7252822569618651	RCube/CMakeFiles/RCube.dir/Cube.cpp.obj	8f9079d24dcc799e
+2419	2501	7252822570404444	RCube/RCube.exe	2c1d19ed81f20ab4
+4	853	7252921043386528	RCube/CMakeFiles/RCube.dir/CubeViewer.cpp.obj	13313387a9d490ed
+9	977	7252921044624012	RCube/CMakeFiles/RCube.dir/Source.cpp.obj	cde9583c67f1563c
+17	1121	7252921046071524	RCube/CMakeFiles/RCube.dir/Face.cpp.obj	772e639a67ea5b42
+13	2948	7252921064354239	RCube/CMakeFiles/RCube.dir/Cube.cpp.obj	8f9079d24dcc799e
+2948	3050	7252921065334758	RCube/RCube.exe	2c1d19ed81f20ab4
+6	451	7252971919366050	RCube/CMakeFiles/RCube.dir/Source.cpp.obj	cde9583c67f1563c
+3	1977	7252971934608785	RCube/CMakeFiles/RCube.dir/Cube.cpp.obj	8f9079d24dcc799e
+1977	2054	7252971935345476	RCube/RCube.exe	2c1d19ed81f20ab4
+3	2052	7252974053726210	RCube/CMakeFiles/RCube.dir/Cube.cpp.obj	8f9079d24dcc799e
+2053	2716	7252974060268394	RCube/RCube.exe	2c1d19ed81f20ab4
+3	3412	7253331094873406	RCube/CMakeFiles/RCube.dir/Cube.cpp.obj	8f9079d24dcc799e
+3413	3568	7253331096372483	RCube/RCube.exe	2c1d19ed81f20ab4

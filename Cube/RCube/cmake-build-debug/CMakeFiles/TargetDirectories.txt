@@ -1,0 +1,5 @@
+C:/Users/Elijah Huang/OneDrive/Desktop/Coding/Kaggle/Santa 2023 - The Polytope Permutation Puzzle/cube/RCube/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Elijah Huang/OneDrive/Desktop/Coding/Kaggle/Santa 2023 - The Polytope Permutation Puzzle/cube/RCube/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Elijah Huang/OneDrive/Desktop/Coding/Kaggle/Santa 2023 - The Polytope Permutation Puzzle/cube/RCube/cmake-build-debug/RCube/CMakeFiles/RCube.dir
+C:/Users/Elijah Huang/OneDrive/Desktop/Coding/Kaggle/Santa 2023 - The Polytope Permutation Puzzle/cube/RCube/cmake-build-debug/RCube/CMakeFiles/edit_cache.dir
+C:/Users/Elijah Huang/OneDrive/Desktop/Coding/Kaggle/Santa 2023 - The Polytope Permutation Puzzle/cube/RCube/cmake-build-debug/RCube/CMakeFiles/rebuild_cache.dir

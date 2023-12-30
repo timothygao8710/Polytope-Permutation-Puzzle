@@ -1,0 +1,76 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "RCube",
+					"jsonFile" : "directory-RCube-Debug-8a75a5121eb52041704f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "RCube",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "RCube",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "RCube::@64a931fba5a24a123b24",
+					"jsonFile" : "target-RCube-Debug-036efaf1a8a47f5a65d5.json",
+					"name" : "RCube",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Elijah Huang/OneDrive/Desktop/Coding/Kaggle/Santa 2023 - The Polytope Permutation Puzzle/cube/RCube/cmake-build-debug",
+		"source" : "C:/Users/Elijah Huang/OneDrive/Desktop/Coding/Kaggle/Santa 2023 - The Polytope Permutation Puzzle/cube/RCube"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
